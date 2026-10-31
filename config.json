@@ -1,0 +1,115 @@
+{
+  "code": "GKNU-YECHEON",
+  "title": "SMASH GKNU YECHEON",
+  "school": "경국대",
+  "fullName": "국립경국대학교",
+  "campusName": "국립경국대학교 예천캠퍼스",
+  "tagline": "경국대를 부셔 (시험기간 스트레스 해소)",
+  "description": "국립경국대학교 예천캠퍼스를 3D로 부수고 지구 중심까지 파 내려가는 스트레스 해소 게임",
+  "ogAlt": "폭탄이 터지며 무너지는 국립경국대학교 예천캠퍼스 3D 화면과 SMASH GKNU YECHEON 제목",
+  "url": "https://hong-iron.github.io/SMASH-GKNU-YECHEON/",
+  "antipode": "우루과이 앞바다(남대서양)",
+  "osm": {
+    "type": "way",
+    "id": 973007851
+  },
+  "styles": {},
+  "supportKakao": "https://qr.kakaopay.com/FKcOJKyOy1f405462",
+  "supportToss": "supertoss://send?amount=1000&bank=%ED%86%A0%EC%8A%A4%EB%B1%85%ED%81%AC&accountNo=100123297463&origin=qr",
+  "hub": "https://hong-iron.github.io/SMASH/",
+  "kakaoKey": "ff20552a5a51bc1fe0e0ecdecd217f35",
+  "goatcounter": "https://sassafras.goatcounter.com/count",
+  "supabaseUrl": "https://qohxhopinnwrzrgxrdvj.supabase.co",
+  "supabaseKey": "sb_publishable_9RcuLHwCWIpdzjqDvXMtIA_kicFhQ8g",
+  "exclude": [
+    {
+      "at": [
+        36.6412071,
+        128.4549549
+      ],
+      "n": "토목재료실습및구조실험실",
+      "why": "항공사진에 없음 — 사진에서 이 자리는 차가 서 있는 흙마당과 나무뿐이고 지붕이 없어, 지금은 없어진 옛 실험실 기록으로 보인다."
+    },
+    {
+      "at": [
+        36.6429337,
+        128.4558248
+      ],
+      "n": "숙직실[주6 부속]",
+      "why": "항공사진에 없음 — 테니스장 서쪽 숲 그늘과 길 가장자리 자리로, 사진을 밝게 해 봐도 지붕 모서리가 보이지 않는다."
+    },
+    {
+      "at": [
+        36.6407358,
+        128.4551363
+      ],
+      "n": "",
+      "why": "항공사진에 없음 — 윤곽 서쪽 절반은 빨간 지붕 건물(30번)의 그림자이고 동쪽 절반은 맨 포장 바닥이라 건물이 없으며, 대장에도 이름이 없다."
+    },
+    {
+      "at": [
+        36.6408612,
+        128.4548013
+      ],
+      "n": "",
+      "why": "항공사진에 없음 — 7강의동 서쪽의 키 큰 나무숲 자리로, 2층 높이 건물이라면 보여야 할 지붕이 사진에 없고 대장에도 이름이 없다."
+    }
+  ],
+  "look": {
+    "기숙사(희망관)": {
+      "style": "ribbon",
+      "wall": "#8c5446",
+      "glass": "#2a2e38",
+      "frame": "#c44a36"
+    },
+    "청남교육관": {
+      "style": "concrete",
+      "wall": "#5c6170",
+      "glass": "#2a3f5a",
+      "frame": "#9a9ca6"
+    },
+    "문화체육관": {
+      "style": "stone",
+      "wall": "#e2e0da",
+      "glass": "#3d4956",
+      "frame": "#9aa1a8"
+    },
+    "대학본부": {
+      "style": "brick",
+      "wall": "#8a5747",
+      "glass": "#3f7aa0",
+      "frame": "#b9bcbf"
+    },
+    "미래관": {
+      "style": "brick",
+      "wall": "#bb9488",
+      "glass": "#3a3f48",
+      "frame": "#d9d4cc"
+    },
+    "4호관": {
+      "style": "stone",
+      "wall": "#c4ceca",
+      "glass": "#3e4a4d",
+      "frame": "#879796"
+    },
+    "1호관": {
+      "style": "brick",
+      "wall": "#94573f",
+      "glass": "#5f6f78",
+      "frame": "#d5d8d2"
+    },
+    "한울학사창조관": {
+      "style": "brick",
+      "wall": "#96563f",
+      "glass": "#38393a",
+      "frame": "#e8e6e0"
+    },
+    "3호관": {
+      "style": "brick",
+      "wall": "#b0806e",
+      "glass": "#5c6870",
+      "frame": "#d8ddcd"
+    }
+  },
+  "lookSource": "학교 공식 캠퍼스맵·건물 안내 사진과 위키미디어 공용 사진의 색만 참고. 사진 픽셀은 쓰지 않음"
+}
